@@ -1,0 +1,8 @@
+.preview-box {
+    border: 1px solid lightgray;
+    height: 200px;
+    padding-top: 15%;
+    background-size: contain !important;;
+    background-repeat: no-repeat !important;;
+    background-position: center !important;
+}
